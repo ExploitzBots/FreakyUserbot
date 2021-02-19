@@ -39,7 +39,7 @@ RUN apt-get install -y\
     sqlite3 \
     ffmpeg \
     libsqlite3-dev \
-    axel \
+    axel \bbb
     zlib1g-dev \
     recoverjpeg \
     zip \
